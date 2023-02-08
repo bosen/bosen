@@ -2,4 +2,5 @@
 
 /dev/null
 
-![image]({[BadgeURLHere](https://github-readme-stats.vercel.app/api/top-langs/?username={bosen})})
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username={bosen}" />
+
